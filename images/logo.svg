@@ -1,0 +1,11 @@
+<svg width="90" height="96" viewBox="0 0 90 96"  xmlns="http://www.w3.org/2000/svg">
+<symbol id="logo" viewBox="0 0 90 96">
+<rect width="30.203" height="96" rx="10" />
+<mask id="mask0_25_15" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="15" y="0" width="75" height="94">
+<ellipse cx="52.5" cy="46.556" rx="37.5" ry="46.556" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_25_15)">
+<rect x="44.6053" y="-23.7706" width="94.3985" height="160.913" rx="10" />
+</g>
+</symbol>
+</svg>
